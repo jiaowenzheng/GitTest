@@ -5,4 +5,6 @@ Git has a mutable index called stage
 Git add diff test
 Master add message
 add master line message
+add second dev message
+
 
